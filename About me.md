@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TSCOfficial
+- 👀 I’m interested in WebDev
+- 🌱 I’m currently learning python, html & css
+- 📫 How to reach me via Discord: @m.nt_aliz / 618876411905835018
